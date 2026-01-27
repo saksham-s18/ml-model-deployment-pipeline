@@ -1,1 +1,21 @@
-<h1>Welcome to Home Page</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Performance App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="center-box">
+    <h1>🎓 Student Exam Performance Predictor</h1>
+    <p>Click below to predict Maths score</p>
+
+    <!-- THIS IS THE IMPORTANT PART -->
+    <a href="{{ url_for('predict_datapoint') }}" class="btn-link">
+        Go to Prediction Page
+    </a>
+</div>
+
+</body>
+</html>
