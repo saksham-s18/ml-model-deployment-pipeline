@@ -10,7 +10,7 @@ The goal of this project is not only model accuracy, but also demonstrating **pr
 
 ## 🚀 Live Demo
 
-🔗 **Application URL:** [https://studentperformance-env.eba-ppu8z7tv.eu-north-1.elasticbeanstalk.com](https://studentperformance-env.eba-ppu8z7tv.eu-north-1.elasticbeanstalk.com)
+🔗 **Application URL:** [http://studentperformance-env.eba-ppu8z7tv.eu-north-1.elasticbeanstalk.com](http://studentperformance-env.eba-ppu8z7tv.eu-north-1.elasticbeanstalk.com)
 
 ---
 
